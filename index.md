@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Tuck in the Wood
+description: Campground and RV Park
 ---
 
-# Welcome to Tuck in the Wood Campground.
+# Tuck in the Wood
 
 Enjoy the serene, natural setting of Tuck In The Wood Campground located on one of the South Carolina Lowcountry's most beautiful islands, St. Helena Island. Learn the history of [St. Helena Island](https://en.wikipedia.org/wiki/Saint_Helena_Island_%28South_Carolina%29) by visiting the [Penn Center](http://www.penncenter.com/) complex and museum or by taking a [Gullah Tour](https://www.beauforttoursllc.com/tours/van-tours/sea-island-plantation-and-gullah-tour/). For the avid water person, St. Helena Island offers many boat landings which allow easy access to the most pristine waters in the area. The whole family will enjoy a wide variety of water activities which include shell fishing and sport fishing. Tuck in the Wood Campground is convenient to beautiful, historic Beaufort. Enjoy Beaufort's charm and Southern hospitality by taking a scenic tour, visiting local museums, and playing golf on some of Beaufort's finest golf courses. Explore the rich culture of St. Helena Island while treating yourself to the quiet, undisturbed nature in Tuck In The Wood Campground.
 
