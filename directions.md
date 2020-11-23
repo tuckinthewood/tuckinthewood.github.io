@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Tuck in the Wood
+description: Directions
 ---
 
 # Directions
