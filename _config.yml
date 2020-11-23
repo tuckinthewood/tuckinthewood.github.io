@@ -1,0 +1,15 @@
+title: Tuck in the Wood
+description: Campground and RV Park
+baseurl: "/"
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
+
